@@ -1,0 +1,1 @@
+<?php $relationships = array('Father', 'Mother', 'Husband', 'Wife', 'Grandparent', 'Guardian', 'Stepfather', 'Stepmother', 'Son', 'Daughter', 'Grandson', 'Granddaughter', 'OtherRelative', 'Friend');?>

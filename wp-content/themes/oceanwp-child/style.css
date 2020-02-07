@@ -1,0 +1,13 @@
+/*
+Theme Name: oceanwp-child
+Theme URI: http://aspirelogics.com/
+Description: 
+Author: Aspire
+Author URI: 
+Template: oceanwp
+Version: 0.1
+*/
+@import url("http://lookwhatwemadeyou.com/iris/wp-content/themes/oceanwp/style.css"); /*@import url("./assets/bs.css");*/
+/* #footer-widgets{background-color:#222;padding:0!important;margin:0}#site-header.transparent-header{position:fixed!important}.banner{position:relative;top:-130px;z-index:1!important}.page-header-title{position:relative;color:#fff;max-width:100%;z-index:2;font-family:ABeeZee,Sans-serif;font-size:44px;font-weight:100;text-align:center!important}#site-navigation-wrap .dropdown-menu>li>a.menu-link{display:block;font-size:13px;line-height:74px;color:#555;padding:0 15px;letter-spacing:.6px;font-family:ABeeZee,Sans-serif!important;text-transform:uppercase}#menu-primary-menu li *{color:#fff!important}
+*/
+body{background-color: aqua;}

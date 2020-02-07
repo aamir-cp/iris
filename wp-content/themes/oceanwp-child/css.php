@@ -33,5 +33,5 @@ select option, option, label,input, .label, select, th, table th{text-transform:
     @media(min-width: 750px){
         #submit{float: right; position: relative; right: -15%;}
         div.inl-bl {    float: right;}
-    }
+    }.wp-admin #submit {    right: 28%;}
 </style>
